@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewaAPI", "WebApplication1\SewaAPI.csproj", "{79987EBE-FBEC-46B3-9742-65D5AFA7DCDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SewaClient", "SewaClient\SewaClient.csproj", "{3A41FA49-453A-4771-8C4E-5393AE6D4AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79987EBE-FBEC-46B3-9742-65D5AFA7DCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79987EBE-FBEC-46B3-9742-65D5AFA7DCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79987EBE-FBEC-46B3-9742-65D5AFA7DCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79987EBE-FBEC-46B3-9742-65D5AFA7DCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A41FA49-453A-4771-8C4E-5393AE6D4AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A41FA49-453A-4771-8C4E-5393AE6D4AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A41FA49-453A-4771-8C4E-5393AE6D4AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A41FA49-453A-4771-8C4E-5393AE6D4AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4110595F-AD86-43F1-88E9-6740B5A45A7F}
+	EndGlobalSection
+EndGlobal

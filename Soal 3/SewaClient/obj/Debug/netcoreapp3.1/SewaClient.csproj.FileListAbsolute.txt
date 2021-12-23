@@ -1,0 +1,190 @@
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.deps.json
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.runtimeconfig.json
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.runtimeconfig.dev.json
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.exe
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.exe
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.deps.json
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.runtimeconfig.json
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.runtimeconfig.dev.json
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.pdb
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.Views.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.Views.pdb
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.dll
+D:\MCC\BNI\WebApplication1\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.pdb
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.csproj.AssemblyReference.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.AssemblyInfoInputs.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.AssemblyInfo.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.csproj.CoreCompileInputs.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.MvcApplicationPartsAssemblyInfo.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.MvcApplicationPartsAssemblyInfo.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.RazorAssemblyInfo.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.RazorAssemblyInfo.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\staticwebassets\SewaClient.StaticWebAssets.Manifest.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\staticwebassets\SewaClient.StaticWebAssets.xml
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\scopedcss\bundle\SewaClient.styles.css
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.TagHelpers.input.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.TagHelpers.output.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.RazorCoreGenerate.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.RazorTargetAssemblyInfo.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.RazorTargetAssemblyInfo.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.Views.pdb
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.csproj.CopyComplete
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.dll
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.pdb
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.genruntimeconfig.cache
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutSewa.cshtml.g.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Penyewas\Sewa.cshtml.g.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Penyewas\Penyewa.cshtml.g.cs
+D:\MCC\BNI\WebApplication1\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.deps.json
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.runtimeconfig.json
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.runtimeconfig.dev.json
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.exe
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.exe
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.deps.json
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.runtimeconfig.json
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.runtimeconfig.dev.json
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.pdb
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.Views.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaClient.Views.pdb
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.dll
+D:\MCC\BNI\Soal 3\SewaClient\bin\Debug\netcoreapp3.1\SewaAPI.pdb
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.csproj.AssemblyReference.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.AssemblyInfoInputs.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.AssemblyInfo.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.csproj.CoreCompileInputs.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.MvcApplicationPartsAssemblyInfo.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.MvcApplicationPartsAssemblyInfo.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.RazorAssemblyInfo.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.RazorAssemblyInfo.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\staticwebassets\SewaClient.StaticWebAssets.Manifest.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\staticwebassets\SewaClient.StaticWebAssets.xml
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\scopedcss\bundle\SewaClient.styles.css
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.TagHelpers.input.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.TagHelpers.output.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.RazorCoreGenerate.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Penyewas\Penyewa.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Penyewas\Sewa.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutSewa.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.RazorTargetAssemblyInfo.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.RazorTargetAssemblyInfo.cs
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.Views.pdb
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.dll
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.pdb
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.genruntimeconfig.cache
+D:\MCC\BNI\Soal 3\SewaClient\obj\Debug\netcoreapp3.1\SewaClient.csproj.CopyComplete

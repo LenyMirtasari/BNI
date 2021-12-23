@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\bin\Debug\netcoreapp3.1\soalsatuBNI.exe
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\bin\Debug\netcoreapp3.1\soalsatuBNI.deps.json
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\bin\Debug\netcoreapp3.1\soalsatuBNI.runtimeconfig.json
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\bin\Debug\netcoreapp3.1\soalsatuBNI.runtimeconfig.dev.json
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\bin\Debug\netcoreapp3.1\soalsatuBNI.dll
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\bin\Debug\netcoreapp3.1\soalsatuBNI.pdb
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\obj\Debug\netcoreapp3.1\soalsatuBNI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\obj\Debug\netcoreapp3.1\soalsatuBNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\obj\Debug\netcoreapp3.1\soalsatuBNI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\obj\Debug\netcoreapp3.1\soalsatuBNI.AssemblyInfo.cs
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\obj\Debug\netcoreapp3.1\soalsatuBNI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\obj\Debug\netcoreapp3.1\soalsatuBNI.dll
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\obj\Debug\netcoreapp3.1\soalsatuBNI.pdb
+C:\Users\User\source\repos\soalsatuBNI\soalsatuBNI\obj\Debug\netcoreapp3.1\soalsatuBNI.genruntimeconfig.cache

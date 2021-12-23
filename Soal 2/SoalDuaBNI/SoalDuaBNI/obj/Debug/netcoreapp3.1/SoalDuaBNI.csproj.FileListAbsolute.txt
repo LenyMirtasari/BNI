@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.exe
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.deps.json
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.runtimeconfig.json
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.dll
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.pdb
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.AssemblyInfo.cs
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.dll
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.pdb
+C:\Users\User\source\repos\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.genruntimeconfig.cache
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.exe
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.deps.json
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.runtimeconfig.json
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.runtimeconfig.dev.json
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.dll
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\bin\Debug\netcoreapp3.1\SoalDuaBNI.pdb
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.csproj.AssemblyReference.cache
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.AssemblyInfoInputs.cache
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.AssemblyInfo.cs
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.csproj.CoreCompileInputs.cache
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.dll
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.pdb
+D:\MCC\BNI\Soal 2\SoalDuaBNI\SoalDuaBNI\obj\Debug\netcoreapp3.1\SoalDuaBNI.genruntimeconfig.cache
